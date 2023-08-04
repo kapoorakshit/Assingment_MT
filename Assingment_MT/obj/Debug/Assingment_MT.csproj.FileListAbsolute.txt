@@ -1,0 +1,8 @@
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\bin\Debug\Assingment_MT.exe.config
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\bin\Debug\Assingment_MT.exe
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\bin\Debug\Assingment_MT.pdb
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\obj\Debug\Assingment_MT.csproj.AssemblyReference.cache
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\obj\Debug\Assingment_MT.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\obj\Debug\Assingment_MT.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\obj\Debug\Assingment_MT.exe
+C:\Users\GOD\source\repos\Assingment_MT\Assingment_MT\obj\Debug\Assingment_MT.pdb
